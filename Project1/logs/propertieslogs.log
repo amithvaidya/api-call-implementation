@@ -1,0 +1,34 @@
+[INFO ] 2021-08-23 12:33:57.166 [restartedMain] Project1Application - Starting Project1Application using Java 1.8.0_251 on DESKTOP-QQR96N2 with PID 1140 (D:\Project1\target\classes started by Dell in D:\Project1)
+[DEBUG] 2021-08-23 12:33:57.173 [restartedMain] Project1Application - Running with Spring Boot v2.5.3, Spring v5.3.9
+[INFO ] 2021-08-23 12:33:57.173 [restartedMain] Project1Application - No active profile set, falling back to default profiles: default
+[INFO ] 2021-08-23 12:34:07.201 [restartedMain] Project1Application - Started Project1Application in 10.862 seconds (JVM running for 12.532)
+[INFO ] 2021-08-23 12:34:30.622 [restartedMain] Project1Application - Starting Project1Application using Java 1.8.0_251 on DESKTOP-QQR96N2 with PID 3308 (D:\Project1\target\classes started by Dell in D:\Project1)
+[DEBUG] 2021-08-23 12:34:30.670 [restartedMain] Project1Application - Running with Spring Boot v2.5.3, Spring v5.3.9
+[INFO ] 2021-08-23 12:34:30.671 [restartedMain] Project1Application - No active profile set, falling back to default profiles: default
+[INFO ] 2021-08-23 12:35:14.391 [restartedMain] Project1Application - Starting Project1Application using Java 1.8.0_251 on DESKTOP-QQR96N2 with PID 1140 (D:\Project1\target\classes started by Dell in D:\Project1)
+[DEBUG] 2021-08-23 12:35:14.393 [restartedMain] Project1Application - Running with Spring Boot v2.5.3, Spring v5.3.9
+[INFO ] 2021-08-23 12:35:14.393 [restartedMain] Project1Application - No active profile set, falling back to default profiles: default
+[INFO ] 2021-08-23 12:35:16.259 [restartedMain] Project1Application - Started Project1Application in 1.94 seconds (JVM running for 81.59)
+[INFO ] 2021-08-23 12:43:50.046 [restartedMain] Project1Application - Starting Project1Application using Java 1.8.0_251 on DESKTOP-QQR96N2 with PID 3844 (D:\Project1\target\classes started by Dell in D:\Project1)
+[DEBUG] 2021-08-23 12:43:50.082 [restartedMain] Project1Application - Running with Spring Boot v2.5.3, Spring v5.3.9
+[INFO ] 2021-08-23 12:43:50.083 [restartedMain] Project1Application - No active profile set, falling back to default profiles: default
+[INFO ] 2021-08-23 12:44:02.146 [restartedMain] Project1Application - Started Project1Application in 13.325 seconds (JVM running for 16.992)
+[INFO ] 2021-08-23 12:45:59.827 [http-nio-8081-exec-1] EmployeeController - API call made from Employee to Department.
+[INFO ] 2021-08-23 12:46:41.812 [http-nio-8081-exec-3] EmployeeController - API call made from Employee to Department.
+[INFO ] 2021-08-23 12:49:45.100 [restartedMain] Project1Application - Starting Project1Application using Java 1.8.0_251 on DESKTOP-QQR96N2 with PID 3844 (D:\Project1\target\classes started by Dell in D:\Project1)
+[DEBUG] 2021-08-23 12:49:45.101 [restartedMain] Project1Application - Running with Spring Boot v2.5.3, Spring v5.3.9
+[INFO ] 2021-08-23 12:49:45.101 [restartedMain] Project1Application - No active profile set, falling back to default profiles: default
+[INFO ] 2021-08-23 12:49:50.051 [restartedMain] Project1Application - Started Project1Application in 5.08 seconds (JVM running for 364.898)
+[INFO ] 2021-08-23 12:50:03.104 [http-nio-8081-exec-1] EmployeeController - API call made from Employee to Department.
+[INFO ] 2021-08-23 12:50:48.112 [restartedMain] Project1Application - Starting Project1Application using Java 1.8.0_251 on DESKTOP-QQR96N2 with PID 3844 (D:\Project1\target\classes started by Dell in D:\Project1)
+[INFO ] 2021-08-23 12:50:48.113 [restartedMain] Project1Application - No active profile set, falling back to default profiles: default
+[INFO ] 2021-08-23 12:50:49.412 [restartedMain] Project1Application - Started Project1Application in 1.389 seconds (JVM running for 424.259)
+[INFO ] 2021-08-23 12:50:58.808 [http-nio-8081-exec-2] EmployeeController - API call made from Employee to Department.
+[INFO ] 2021-08-23 12:52:58.093 [http-nio-8081-exec-10] EmployeeController - API call made from Employee to Department.
+[INFO ] 2021-08-23 12:56:00.870 [main] EmployeeController - Logger called.
+[WARN ] 2021-08-23 12:56:00.877 [main] EmployeeController - WARN
+[INFO ] 2021-08-23 13:03:54.582 [main] Log4jDemo - Info logger
+[WARN ] 2021-08-23 13:03:54.588 [main] Log4jDemo - warn logger
+[INFO ] 2021-08-23 13:04:23.144 [main] Log4jDemo - Info logger
+[WARN ] 2021-08-23 13:04:23.150 [main] Log4jDemo - warn logger
+[DEBUG] 2021-08-23 13:04:23.150 [main] Log4jDemo - debug logger

@@ -1,0 +1,58 @@
+[INFO ] 2021-08-23 13:13:29.102 [main] Log4jDemo - Info logger
+[WARN ] 2021-08-23 13:13:29.109 [main] Log4jDemo - warn logger
+[DEBUG] 2021-08-23 13:13:29.109 [main] Log4jDemo - debug logger
+[INFO ] 2021-08-25 10:58:22.668 [restartedMain] Project1Application - Starting Project1Application using Java 1.8.0_251 on DESKTOP-QQR96N2 with PID 10324 (D:\Project1\target\classes started by Dell in D:\Project1)
+[DEBUG] 2021-08-25 10:58:22.670 [restartedMain] Project1Application - Running with Spring Boot v2.5.3, Spring v5.3.9
+[INFO ] 2021-08-25 10:58:22.670 [restartedMain] Project1Application - No active profile set, falling back to default profiles: default
+[INFO ] 2021-08-25 10:58:26.581 [restartedMain] Project1Application - Started Project1Application in 4.117 seconds (JVM running for 275.468)
+[INFO ] 2021-08-25 10:58:32.495 [http-nio-8081-exec-10] EmployeeController - API call made from Employee to Department.
+[INFO ] 2021-08-25 11:29:26.355 [restartedMain] Project1Application - Starting Project1Application using Java 1.8.0_251 on DESKTOP-QQR96N2 with PID 10324 (D:\Project1\target\classes started by Dell in D:\Project1)
+[INFO ] 2021-08-25 11:29:26.356 [restartedMain] Project1Application - No active profile set, falling back to default profiles: default
+[INFO ] 2021-08-25 11:29:27.334 [restartedMain] Project1Application - Started Project1Application in 1.051 seconds (JVM running for 2136.222)
+[INFO ] 2021-08-25 15:29:49.177 [restartedMain] Project1Application - Starting Project1Application using Java 1.8.0_251 on DESKTOP-QQR96N2 with PID 10412 (D:\Project1\target\classes started by Dell in D:\Project1)
+[INFO ] 2021-08-25 15:29:49.186 [restartedMain] Project1Application - No active profile set, falling back to default profiles: default
+[INFO ] 2021-08-25 15:29:56.664 [restartedMain] Project1Application - Started Project1Application in 8.144 seconds (JVM running for 9.593)
+[INFO ] 2021-08-26 13:34:43.392 [restartedMain] Project1Application - Starting Project1Application using Java 1.8.0_251 on DESKTOP-QQR96N2 with PID 9000 (D:\Project1\target\classes started by Dell in D:\Project1)
+[INFO ] 2021-08-26 13:34:43.414 [restartedMain] Project1Application - No active profile set, falling back to default profiles: default
+[INFO ] 2021-08-26 13:34:51.855 [restartedMain] Project1Application - Started Project1Application in 9.206 seconds (JVM running for 10.839)
+[INFO ] 2021-08-26 16:33:33.693 [restartedMain] Project1Application - Starting Project1Application using Java 1.8.0_251 on DESKTOP-QQR96N2 with PID 9000 (D:\Project1\target\classes started by Dell in D:\Project1)
+[INFO ] 2021-08-26 16:33:33.694 [restartedMain] Project1Application - No active profile set, falling back to default profiles: default
+[INFO ] 2021-08-27 10:42:23.005 [restartedMain] Project1Application - Starting Project1Application using Java 1.8.0_251 on DESKTOP-QQR96N2 with PID 1008 (D:\Project1\target\classes started by Dell in D:\Project1)
+[INFO ] 2021-08-27 10:42:23.031 [restartedMain] Project1Application - No active profile set, falling back to default profiles: default
+[INFO ] 2021-08-27 10:42:31.466 [restartedMain] Project1Application - Started Project1Application in 9.867 seconds (JVM running for 12.044)
+[INFO ] 2021-08-27 10:52:49.775 [restartedMain] Project1Application - Starting Project1Application using Java 1.8.0_251 on DESKTOP-QQR96N2 with PID 1008 (D:\Project1\target\classes started by Dell in D:\Project1)
+[INFO ] 2021-08-27 10:52:49.776 [restartedMain] Project1Application - No active profile set, falling back to default profiles: default
+[INFO ] 2021-08-27 10:52:51.593 [restartedMain] Project1Application - Started Project1Application in 1.914 seconds (JVM running for 632.17)
+[INFO ] 2021-08-27 10:52:55.574 [restartedMain] Project1Application - Starting Project1Application using Java 1.8.0_251 on DESKTOP-QQR96N2 with PID 1008 (D:\Project1\target\classes started by Dell in D:\Project1)
+[INFO ] 2021-08-27 10:52:55.575 [restartedMain] Project1Application - No active profile set, falling back to default profiles: default
+[INFO ] 2021-08-27 10:52:56.859 [restartedMain] Project1Application - Started Project1Application in 1.365 seconds (JVM running for 637.436)
+[INFO ] 2021-08-27 10:53:26.097 [restartedMain] Project1Application - Starting Project1Application using Java 1.8.0_251 on DESKTOP-QQR96N2 with PID 1008 (D:\Project1\target\classes started by Dell in D:\Project1)
+[INFO ] 2021-08-27 10:53:26.103 [restartedMain] Project1Application - No active profile set, falling back to default profiles: default
+[INFO ] 2021-08-27 10:53:27.691 [restartedMain] Project1Application - Started Project1Application in 1.822 seconds (JVM running for 668.268)
+[INFO ] 2021-08-27 10:57:06.152 [restartedMain] Project1Application - Starting Project1Application using Java 1.8.0_251 on DESKTOP-QQR96N2 with PID 1008 (D:\Project1\target\classes started by Dell in D:\Project1)
+[INFO ] 2021-08-27 10:57:06.153 [restartedMain] Project1Application - No active profile set, falling back to default profiles: default
+[INFO ] 2021-08-27 10:57:08.282 [restartedMain] Project1Application - Started Project1Application in 2.252 seconds (JVM running for 888.859)
+[INFO ] 2021-08-27 10:59:40.815 [restartedMain] Project1Application - Starting Project1Application using Java 1.8.0_251 on DESKTOP-QQR96N2 with PID 1008 (D:\Project1\target\classes started by Dell in D:\Project1)
+[INFO ] 2021-08-27 10:59:40.816 [restartedMain] Project1Application - No active profile set, falling back to default profiles: default
+[INFO ] 2021-08-27 10:59:42.497 [restartedMain] Project1Application - Started Project1Application in 1.86 seconds (JVM running for 1043.074)
+[INFO ] 2021-08-27 11:01:08.112 [restartedMain] Project1Application - Starting Project1Application using Java 1.8.0_251 on DESKTOP-QQR96N2 with PID 1008 (D:\Project1\target\classes started by Dell in D:\Project1)
+[INFO ] 2021-08-27 11:01:08.114 [restartedMain] Project1Application - No active profile set, falling back to default profiles: default
+[INFO ] 2021-08-27 11:01:09.576 [restartedMain] Project1Application - Started Project1Application in 1.574 seconds (JVM running for 1130.153)
+[INFO ] 2021-08-27 11:02:08.034 [restartedMain] Project1Application - Starting Project1Application using Java 1.8.0_251 on DESKTOP-QQR96N2 with PID 1008 (D:\Project1\target\classes started by Dell in D:\Project1)
+[INFO ] 2021-08-27 11:02:08.035 [restartedMain] Project1Application - No active profile set, falling back to default profiles: default
+[INFO ] 2021-08-27 11:02:09.960 [restartedMain] Project1Application - Started Project1Application in 2.055 seconds (JVM running for 1190.538)
+[INFO ] 2021-08-27 11:02:56.756 [restartedMain] Project1Application - Starting Project1Application using Java 1.8.0_251 on DESKTOP-QQR96N2 with PID 1008 (D:\Project1\target\classes started by Dell in D:\Project1)
+[INFO ] 2021-08-27 11:02:56.759 [restartedMain] Project1Application - No active profile set, falling back to default profiles: default
+[INFO ] 2021-08-27 11:02:58.111 [restartedMain] Project1Application - Started Project1Application in 1.446 seconds (JVM running for 1238.688)
+[INFO ] 2021-08-27 11:03:02.046 [restartedMain] Project1Application - Starting Project1Application using Java 1.8.0_251 on DESKTOP-QQR96N2 with PID 1008 (D:\Project1\target\classes started by Dell in D:\Project1)
+[INFO ] 2021-08-27 11:03:02.047 [restartedMain] Project1Application - No active profile set, falling back to default profiles: default
+[INFO ] 2021-08-27 11:03:03.062 [restartedMain] Project1Application - Started Project1Application in 1.081 seconds (JVM running for 1243.639)
+[INFO ] 2021-08-27 11:04:14.306 [restartedMain] Project1Application - Starting Project1Application using Java 1.8.0_251 on DESKTOP-QQR96N2 with PID 1008 (D:\Project1\target\classes started by Dell in D:\Project1)
+[INFO ] 2021-08-27 11:04:14.307 [restartedMain] Project1Application - No active profile set, falling back to default profiles: default
+[INFO ] 2021-08-27 11:04:15.315 [restartedMain] Project1Application - Started Project1Application in 1.064 seconds (JVM running for 1315.892)
+[INFO ] 2021-08-27 11:06:23.004 [restartedMain] Project1Application - Starting Project1Application using Java 1.8.0_251 on DESKTOP-QQR96N2 with PID 1008 (D:\Project1\target\classes started by Dell in D:\Project1)
+[INFO ] 2021-08-27 11:06:23.005 [restartedMain] Project1Application - No active profile set, falling back to default profiles: default
+[INFO ] 2021-08-27 11:06:23.665 [restartedMain] Project1Application - Started Project1Application in 0.732 seconds (JVM running for 1444.243)
+[INFO ] 2021-08-27 11:06:51.630 [restartedMain] Project1Application - Starting Project1Application using Java 1.8.0_251 on DESKTOP-QQR96N2 with PID 1008 (D:\Project1\target\classes started by Dell in D:\Project1)
+[INFO ] 2021-08-27 11:06:51.630 [restartedMain] Project1Application - No active profile set, falling back to default profiles: default
+[INFO ] 2021-08-27 11:06:52.329 [restartedMain] Project1Application - Started Project1Application in 0.752 seconds (JVM running for 1472.907)
